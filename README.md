@@ -1,3 +1,3 @@
 # TestArcAPI
 
-fuck.gif
+[!preview](fuck.gif)
